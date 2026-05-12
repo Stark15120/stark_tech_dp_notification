@@ -109,7 +109,7 @@ const styles: Record<string, React.CSSProperties> = {
   heading: {
     fontSize:     "24px",
     fontWeight:   "700",
-    color:        "#2E7D32",
+    color:        "#5a4b4b",
     marginBottom: "8px",
   },
   sub: {
